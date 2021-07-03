@@ -14,16 +14,16 @@ The layout and firmware along with the changes can be downloaded post compiling.
 
 ## FLASING / UPLOADING THE FIRMWARE ON YOUR KEYBOARD
 
-Step 1: Download QMK Toolbox (https://github.com/qmk/qmk_toolbox/releases/download/0.0.21/qmk_toolbox.exe)
-Step 2: Open QMK Toolbox
-Step 3: Install Drivers (Only for Windows)
-Step 4: Launch QMK Toolbox and Open the correct firmware file
-Step 5: Select the MCU
-Step 6: Reset your keyboard (Enter Bootloader Mode)
-   Step 6 Option 1: Keymap Reset
-   Step 6 Option 2: Hold Space + B while plugging in
-   Step 6 Option 3: Hold Esc while plugging in
-   Step 6 Option 4: Physical Reset Button (Its a tiny button might be difficult to locate)
-Step 7: Press Flash
+1. Step 1: Download QMK Toolbox (https://github.com/qmk/qmk_toolbox/releases/download/0.0.21/qmk_toolbox.exe)
+1. Step 2: Open QMK Toolbox
+1. Step 3: Install Drivers (Only for Windows)
+1. Step 4: Launch QMK Toolbox and Open the correct firmware file
+1. Step 5: Select the MCU
+1. Step 6: Reset your keyboard (Enter Bootloader Mode)
+      * Step 6 Option 1: Keymap Reset
+      * Step 6 Option 2: Hold Space + B while plugging in
+      * Step 6 Option 3: Hold Esc while plugging in
+      * Step 6 Option 4: Physical Reset Button (Its a tiny button might be difficult to locate)
+1. Step 7: Press Flash
 
 The video can be viewed on the given link: https://youtu.be/fuBJbdCFF0Q
