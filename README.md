@@ -20,10 +20,10 @@ The layout and firmware along with the changes can be downloaded post compiling.
 * Step 4: Launch QMK Toolbox and Open the correct firmware file
 * Step 5: Select the MCU
 * Step 6: Reset your keyboard (Enter Bootloader Mode)
-      * Step 6 Option 1: Keymap Reset
-      * Step 6 Option 2: Hold Space + B while plugging in
-      * Step 6 Option 3: Hold Esc while plugging in
-      * Step 6 Option 4: Physical Reset Button (Its a tiny button might be difficult to locate)
+      1. Step 6 Option 1: Keymap Reset
+      2. Step 6 Option 2: Hold Space + B while plugging in
+      3. Step 6 Option 3: Hold Esc while plugging in
+      4. Step 6 Option 4: Physical Reset Button (Its a tiny button might be difficult to locate)
 * Step 7: Press Flash
 
 The video can be viewed on the given link: https://youtu.be/fuBJbdCFF0Q
