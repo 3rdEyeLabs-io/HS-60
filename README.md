@@ -2,6 +2,7 @@
 The Layout for the HS-60 will be as per given below
 
 ![HS-60 Arabic layout](https://user-images.githubusercontent.com/84006123/124348362-1e875700-dc07-11eb-8362-a15b58cf5734.png)
+![HS-60 Arabic layout](https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true)
 
 ## LAYOUT CHANGES AND FIRMWARE DOWNLOAD
 
