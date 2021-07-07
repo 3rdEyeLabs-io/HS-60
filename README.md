@@ -7,7 +7,7 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 
 <p align='center'>
 *__English Layout__*
-![GMK-Metropolis-Base-Layer-English](https://user-images.githubusercontent.com/84006123/124708334-c3f83e80-df17-11eb-9841-437ac611e117.png)
+<img width="200" src="https://user-images.githubusercontent.com/84006123/124708334-c3f83e80-df17-11eb-9841-437ac611e117.png" alt="Eglish Layout">
   
 __*Fn layer*__
 
