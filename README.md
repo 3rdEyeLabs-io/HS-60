@@ -3,7 +3,7 @@
 The HS60 is a POK3R style, hot-swapable keyboard PCB. It is designed and manufactured through a collaboration between <a href="https://mechboards.co.uk/">Mechboards</a> and <a href="https://yiancar-designs.com/">Yiancar</a>.
 
 All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye Labs (3eL)</a> come pre-flashed with the 3eL HS60 layout as illustrated in the following images.
-
+<p align='center'>
 ![HS-60 Arabic layout](https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true)
 
 *__English Layout__*
@@ -14,6 +14,7 @@ __*Fn layer*__
 
 ![GMK-Metropolis-Fn-Layer-English](https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png)
 
+</p>
 
 ## LAYOUT CHANGES AND FIRMWARE DOWNLOAD
 
