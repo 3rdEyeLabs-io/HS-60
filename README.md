@@ -8,10 +8,16 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 ![HS-60 Arabic layout](https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true)
 
 *__English Layout__*
+ 
+<p align='center'>
 
 ![GMK-Metropolis-Base-Layer-English](https://user-images.githubusercontent.com/84006123/124708334-c3f83e80-df17-11eb-9841-437ac611e117.png)
 
+ </p>
+  
 __*Fn layer*__
+
+<p align='center'>
 
 ![GMK-Metropolis-Fn-Layer-English](https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png)
 
