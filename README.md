@@ -6,6 +6,8 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 
 ![HS-60 Arabic layout](https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true)
 
+![hs-60 english layout](C:\Users\Lenovo\Downloads\GMK-Metropolis-Base-Layer-English.png)
+
 @Talha First Image
 @Talha Second Image
 
