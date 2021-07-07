@@ -3,18 +3,18 @@
 The HS60 is a POK3R style, hot-swapable keyboard PCB. It is designed and manufactured through a collaboration between <a href="https://mechboards.co.uk/">Mechboards</a> and <a href="https://yiancar-designs.com/">Yiancar</a>.
 
 All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye Labs (3eL)</a> come pre-flashed with the 3eL HS60 layout as illustrated in the following images.
-![HS-60 Arabic layout](https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true)
 
+<b><i>Arabic Layout </b></i><br>
 <p align='center'>
+<img width="800" src="https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true" alt="Arabic Layout">
+</p>
 <b><i>English Layout </b></i><br>
-<img width="800" src="https://user-images.githubusercontent.com/84006123/124708334-c3f83e80-df17-11eb-9841-437ac611e117.png" alt="Eglish Layout">
-  
-__*Fn layer*__
-
 <p align='center'>
-
-![GMK-Metropolis-Fn-Layer-English](https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png)
-
+<img width="800" src="https://user-images.githubusercontent.com/84006123/124708334-c3f83e80-df17-11eb-9841-437ac611e117.png" alt="Eglish Layout">
+</p>
+<b><i>Fn layer </b></i><br>
+<p align='center'>
+<img width="800" src="https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png" alt="Fn layer">
 </p>
 
 ## LAYOUT CHANGES AND FIRMWARE DOWNLOAD
