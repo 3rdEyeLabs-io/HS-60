@@ -4,6 +4,7 @@ The HS60 is a POK3R style, hot-swapable keyboard PCB. It is designed and manufac
 
 All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye Labs (3eL)</a> come pre-flashed with the 3eL HS60 layout as illustrated in the following images.
 <p align='center'>
+ 
 ![HS-60 Arabic layout](https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true)
 
 *__English Layout__*
