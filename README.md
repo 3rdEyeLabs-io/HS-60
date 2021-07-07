@@ -6,9 +6,8 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 
 
 <p align='center'>
-<img width="1000" src="https://github.com/3rdEyeLabs-io/HS-60/blob/main/HS-60%20Arabic.PNG?raw=true" alt="Arabic Layout">
+<img width="800" alt="HS-60 Arabic" src="https://user-images.githubusercontent.com/84006123/124785832-d3ea3f80-df64-11eb-9a3a-fd8ddffd1bfc.PNG">
 </p>
-
 
 <b><i>English Layout </b></i><br>
 
