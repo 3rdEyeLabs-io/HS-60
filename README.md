@@ -14,8 +14,6 @@ __*Fn layer*__
 
 ![GMK-Metropolis-Fn-Layer-English](https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png)
 
-@Talha First Image
-@Talha Second Image
 
 ## LAYOUT CHANGES AND FIRMWARE DOWNLOAD
 
