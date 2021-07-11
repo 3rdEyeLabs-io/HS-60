@@ -45,7 +45,7 @@ The 3eL HS60 firmware can also be downloaded from out repository as a __*.bin*__
 Step 1: Download QMK Toolbox for <a href="https://github.com/qmk/qmk_toolbox/releases">Windows or MacOS</a> \
 Step 2: Launch QMK Toolbox \
 Step 3: Install Drivers (only for Windows) by right-clicking on the 'Flash' button and selecting 'Install Drivers' \
-Step 4: Load your firmware file by clicking 'Open' and selecting a __*.bin*__ file \
+Step 4: Load your firmware file by clicking 'Open' and selecting the __*.bin*__ file \
 Step 5: Select the MCU as 'atmega32u4' \
 Step 6: Reset your keyboard (Enter Bootloader Mode) \
       * Option 1: Keymap Reset \
