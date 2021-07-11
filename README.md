@@ -42,7 +42,7 @@ The 3eL HS60 firmware can also be downloaded from out repository as a __*.bin*__
 
 **NOTE: Installing QMK may trigger your computer's antivirus**
 
-Step 1: Download QMK Toolbox for <a href="https://github.com/qmk/qmk_toolbox/releases">Windows or MACOS</a> \
+Step 1: Download QMK Toolbox for <a href="https://github.com/qmk/qmk_toolbox/releases">Windows or MacOS</a> \
 Step 2: Launch QMK Toolbox \
 Step 3: Install Drivers (only for Windows) by right-clicking on the 'Flash' button and selecting 'Install Drivers' \
 Step 4: Load your firmware file by clicking 'Open' and selecting a __*.bin*__ file \
