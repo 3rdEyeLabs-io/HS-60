@@ -3,7 +3,7 @@
 The HS60 is a POK3R style, hot-swapable keyboard PCB. It is designed and manufactured through a collaboration between <a href="https://mechboards.co.uk/">Mechboards</a> and <a href="https://yiancar-designs.com/">Yiancar</a>.
 
 All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye Labs (3eL)</a> come pre-flashed with the 3eL HS60 layout as illustrated in the following images.
-<br>
+<br><br>
 <p align='center'>
 <img width="800" alt="HS-60 Arabic" src="https://user-images.githubusercontent.com/84006123/124785832-d3ea3f80-df64-11eb-9a3a-fd8ddffd1bfc.PNG">
 </p>
