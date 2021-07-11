@@ -16,32 +16,42 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 <img width="800" src="https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png" alt="Fn layer">
 </p>
 
+## PROGRAMMING THE HS60
+
+The HS60 can be programmed using <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK</a> or <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK Configurator Tool</a> or <a href="https://github.com/the-via/releases/releases/tag/v1.3.1">VIA</a>.
+
+## VIA
+
+Download <a href="https://github.com/the-via/releases/releases/tag/v1.3.1">VIA</a> by selecting the installer for your OS. Plug in the HS60 amd make your changes to the layout. VIA will automatically update the keyboard with the changes you are making in real-time. 
+
+## QMK
+
 ## LAYOUT FILES 
 
 The __*.json*__ file within the repository can be used to edit the 3eL HS60 layout using the <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK Configurator Tool</a>.
 
-Import the __*.json*__ file to customize the layout. Don't forget to export you changes as  
+Import the __*.json*__ file to customize the layout. Don't forget to export you changes to save them. Click on 'Compile' and once compiled, download your firmware file for flashing.
 
 ## FIRMWARE 
 
-The firmware can also be downloaded from out repository __*.bin*__ extension is the firmware.
+The layout and firmware along with the changes can be downloaded post compiling. Use the downloaded __*.bin*__ file to flash your keyboard with the firmware.
 
-If any changes are required then __*.json*__ file can be uploaded unto the qmk configurator (https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi) by clicking the button next to __*KEYMAP.JSON*__.
+The 3eL HS60 firmware can also be downloaded from out repository as a __*.bin*__ file.
 
-The layout and firmware along with the changes can be downloaded post compiling.
+## FLASING THE FIRMWARE
 
-## FLASING / UPLOADING THE FIRMWARE ON YOUR KEYBOARD
+**NOTE: Installing QMK may trigger your computer's antivirus**
 
-Step 1: Download QMK Toolbox (https://github.com/qmk/qmk_toolbox/releases/download/0.0.21/qmk_toolbox.exe) \
-Step 2: Open QMK Toolbox \
-Step 3: Install Drivers (Only for Windows) \
-Step 4: Launch QMK Toolbox and Open the correct firmware file \
-Step 5: Select the MCU \
+Step 1: Download QMK Toolbox for <a href="https://github.com/qmk/qmk_toolbox/releases">Windows or MACOS</a> \
+Step 2: Launch QMK Toolbox \
+Step 3: Install Drivers (only for Windows) by right-clicking on the 'Flash' button and selecting 'Install Drivers' \
+Step 4: Load your firmware file by clicking 'Open' and selecting a __*.bin*__ file \
+Step 5: Select the MCU as 'atmega32u4' \
 Step 6: Reset your keyboard (Enter Bootloader Mode) \
       * Option 1: Keymap Reset \
       * Option 2: Hold Space + B while plugging in \
       * Option 3: Hold Esc while plugging in \
       * Option 4: Physical Reset Button (Its a tiny button might be difficult to locate) \
-Step 7: Press Flash
+Step 7: Click on 'Flash'
 
-The video can be viewed on the given link: https://youtu.be/fuBJbdCFF0Q
+
