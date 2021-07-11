@@ -9,13 +9,15 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 </p>
 <br>
 <p align='center'>
-<img width="800" src="https://user-images.githubusercontent.com/84006123/124708334-c3f83e80-df17-11eb-9841-437ac611e117.png" alt="Eglish Layout">
+<img width="800" src="https://user-images.githubusercontent.com/84006123/125206241-dcfc4900-e2a3-11eb-8c37-e4e2894504ae.png" alt="Metropolis Eglish Layout">
 </p>
 <b><i>Fn layer </b></i><br><br>
 <p align='center'>
 <img width="800" src="https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png" alt="Fn layer">
 </p>
 
+
+<!---
 ## GIVEN ARE THE THEMES AVAILABLE
 
 <p align='center'>
@@ -25,7 +27,7 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
      <img width="800" src="https://user-images.githubusercontent.com/84006123/125205860-f56b6400-e2a1-11eb-89f8-ada5970121f0.png" alt="GMK-METROPOLIS-ENGLISH">
      
      ![GMK-METROPOLIS---ENGLISH-JPEG](https://user-images.githubusercontent.com/84006123/125206038-a7a32b80-e2a2-11eb-8cb3-5b7c5009d53b.jpg)
-
+--->
 
 
 ## PROGRAMMING THE HS60
