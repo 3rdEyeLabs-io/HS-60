@@ -20,7 +20,6 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 
 <p align='center'>
      <b><i>METROPOLIS </b></i>
-     
      <img width="800" src="https://user-images.githubusercontent.com/84006123/125205860-f56b6400-e2a1-11eb-89f8-ada5970121f0.png" alt="GMK-METROPOLIS-ENGLISH">
 
 
