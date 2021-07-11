@@ -16,9 +16,14 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 <img width="800" src="https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png" alt="Fn layer">
 </p>
 
-## LAYOUT CHANGES AND FIRMWARE DOWNLOAD
+## LAYOUT FILES 
 
-The __*.json*__ file within the repository is the contemporary default english layout. The language can be switched through your OS to arabic.
+The __*.json*__ file within the repository can be used to edit the 3eL HS60 layout using the <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK Configurator Tool</a>.
+
+Import the __*.json*__ file to customize the layout. Don't forget to export you changes as  
+
+## FIRMWARE 
+
 The firmware can also be downloaded from out repository __*.bin*__ extension is the firmware.
 
 If any changes are required then __*.json*__ file can be uploaded unto the qmk configurator (https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi) by clicking the button next to __*KEYMAP.JSON*__.
@@ -33,10 +38,10 @@ Step 3: Install Drivers (Only for Windows) \
 Step 4: Launch QMK Toolbox and Open the correct firmware file \
 Step 5: Select the MCU \
 Step 6: Reset your keyboard (Enter Bootloader Mode) \
-      * Step 6 Option 1: Keymap Reset \
-      * Step 6 Option 2: Hold Space + B while plugging in \
-      * Step 6 Option 3: Hold Esc while plugging in \
-      * Step 6 Option 4: Physical Reset Button (Its a tiny button might be difficult to locate) \
+      * Option 1: Keymap Reset \
+      * Option 2: Hold Space + B while plugging in \
+      * Option 3: Hold Esc while plugging in \
+      * Option 4: Physical Reset Button (Its a tiny button might be difficult to locate) \
 Step 7: Press Flash
 
 The video can be viewed on the given link: https://youtu.be/fuBJbdCFF0Q
