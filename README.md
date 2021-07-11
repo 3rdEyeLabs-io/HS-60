@@ -18,7 +18,7 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 
 ## PROGRAMMING THE HS60
 
-The HS60 can be programmed using <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK</a> or <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK Configurator Tool</a> or <a href="https://github.com/the-via/releases/releases/tag/v1.3.1">VIA</a>.
+The HS60 can be programmed using <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK</a> or <a href="https://github.com/the-via/releases/releases/tag/v1.3.1">VIA</a>.
 
 ## VIA
 
