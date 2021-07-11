@@ -17,20 +17,6 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 <img width="800" src="https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png" alt="Fn layer">
 </p>
 
-
-<!---
-## GIVEN ARE THE THEMES AVAILABLE
-
-<p align='center'>
-     <b><i>METROPOLIS </b></i>
-     </p>
-<p align='center'>
-     <img width="800" src="https://user-images.githubusercontent.com/84006123/125205860-f56b6400-e2a1-11eb-89f8-ada5970121f0.png" alt="GMK-METROPOLIS-ENGLISH">
-     
-     ![GMK-METROPOLIS---ENGLISH-JPEG](https://user-images.githubusercontent.com/84006123/125206038-a7a32b80-e2a2-11eb-8cb3-5b7c5009d53b.jpg)
---->
-
-
 ## PROGRAMMING THE HS60
 
 The HS60 can be programmed using <a href="https://config.qmk.fm/#/hs60/v2/ansi/LAYOUT_60_ansi">QMK</a> or <a href="https://github.com/the-via/releases/releases/tag/v1.3.1">VIA</a>.
