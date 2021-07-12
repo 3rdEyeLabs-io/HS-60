@@ -14,7 +14,7 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 </p>
 <b><i>Fn layer </b></i><br><br>
 <p align='center'>
-<img width="800" src="https://user-images.githubusercontent.com/84006123/124708372-d1152d80-df17-11eb-818d-1f66f482bcc3.png" alt="Fn layer">
+<img width="800" src="https://user-images.githubusercontent.com/84006123/125286535-87727b80-e339-11eb-9aec-c88cdbd7cd06.png" alt="Fn layer">
 </p>
 
 ## PROGRAMMING THE HS60
