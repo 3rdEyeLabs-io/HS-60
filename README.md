@@ -17,7 +17,7 @@ All HS60s that are purchased through <a href="https://3rdeyelabs.io/">3rd Eye La
 <p align='center'>
 <img width="800" src="https://user-images.githubusercontent.com/84006123/125286535-87727b80-e339-11eb-9aec-c88cdbd7cd06.png" alt="Fn layer">
 </p>
-Press and hold the 'Fn' key to access this layer.
+     Press and hold the 'Fn' key to access this layer.
 </p>
 
 ## PROGRAMMING THE HS60
